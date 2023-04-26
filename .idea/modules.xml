@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01.anatomia-classes/01.anatomia-classes.iml" filepath="$PROJECT_DIR$/01.anatomia-classes/01.anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02.tipos-de-variaveis/02.tipos-de-variaveis.iml" filepath="$PROJECT_DIR$/02.tipos-de-variaveis/02.tipos-de-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03.operadores/03.operadores.iml" filepath="$PROJECT_DIR$/03.operadores/03.operadores.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04.metodos/04.metodos.iml" filepath="$PROJECT_DIR$/04.metodos/04.metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05.escopo/05.escopo.iml" filepath="$PROJECT_DIR$/05.escopo/05.escopo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06.documentacao/06.documentacao.iml" filepath="$PROJECT_DIR$/06.documentacao/06.documentacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07.terminal-e-argumentos/07.terminal-e-argumentos.iml" filepath="$PROJECT_DIR$/07.terminal-e-argumentos/07.terminal-e-argumentos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08.estruturas-condicionais/08.estruturas-condicionais.iml" filepath="$PROJECT_DIR$/08.estruturas-condicionais/08.estruturas-condicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java-basico-curso-dio.iml" filepath="$PROJECT_DIR$/.idea/java-basico-curso-dio.iml" />
+    </modules>
+  </component>
+</project>
