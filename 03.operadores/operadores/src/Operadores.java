@@ -63,7 +63,7 @@ public class Operadores {
         System.out.println(++ numero);
         boolean verdadeiro = true;
         System.out.println("Inverteu " + !verdadeiro);
-        System.err.println(verdadeiro);
+        System.out.println(verdadeiro);
         // Muito cuidado com ordem de precedência, dos operadores unários!
 
         //Operador ternário:
